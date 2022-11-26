@@ -1,0 +1,10 @@
+target
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+README.MD
+.git/
+.gitignore
